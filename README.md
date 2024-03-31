@@ -1,4 +1,4 @@
-I'm a 15 years old student from France !
+I'm a 16 years old student from France !
 Computing is a hobby for me !
 I really like history, it’s my favorite subject !
 I am currently in final year of the high scool, I study maths and engineering sciences as my main subjects ! 
