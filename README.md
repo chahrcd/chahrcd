@@ -1,4 +1,4 @@
-I'm a 16 years old student from France !
+I'm a student from France !
 I really like history, it’s my favorite subject !
 I am currently in final year of the high scool, I study maths and computer science as my main subjects ! 
 <!---
