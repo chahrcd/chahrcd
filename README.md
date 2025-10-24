@@ -11,9 +11,7 @@
 
 - 🎓 Études en lien avec les **sciences fondamentales**
 - 🔒 Intérêts principaux : **cybersécurité**, **dev**
-- ⚙️ Apprentissage en cours : **langage Python, C++**, logique bas-niveau, optimisation
-- 🌘 Je préfère comprendre profondément plutôt qu’aller vite
-
+- ⚙️ Apprentissage en cours : **langage vitegique bas-niveau, optimisation
 > *« On progresse par couches. Certaines invisibles, mais essentielles. »*
 
 ---
