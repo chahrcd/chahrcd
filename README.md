@@ -11,7 +11,7 @@
 
 - 🎓 Études en lien avec les **sciences fondamentales**
 - 🔒 Intérêts principaux : **cybersécurité**, **dev**
-- ⚙️ Apprentissage en cours : **langage vitegique bas-niveau, optimisation
+- ⚙️ Apprentissage en cours : **langage python, logique bas-niveau, optimisation
 > *« On progresse par couches. Certaines invisibles, mais essentielles. »*
 
 ---
